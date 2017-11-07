@@ -1,0 +1,20 @@
+{
+  "name": "next-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "cristian caroli",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.19.1",
+    "next": "^4.1.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
